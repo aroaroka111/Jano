@@ -7,7 +7,7 @@ prefix = "D"
 
 
 
-game = "shtek bnusa bo playing"
+game = "command bot Dp Dplay"
 
 
 
