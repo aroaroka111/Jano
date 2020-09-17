@@ -7,7 +7,7 @@ prefix = "D"
 
 
 
-game = "command bot Dp Dplay"
+game = "Dplay"
 
 
 
