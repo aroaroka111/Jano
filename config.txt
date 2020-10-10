@@ -3,11 +3,11 @@ owner = 619170695267614720
 
 
 
-prefix = ">"
+prefix = "."
 
 
 
-game = ">p and >play"
+game = ".play"
 
 
 
