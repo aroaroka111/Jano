@@ -1,5 +1,5 @@
-token = NzU2MTg1NDAxNjk3MzcwMTc0.X2OKiQ.Ql7NrcRFXYLFI5v4vj5r5Mimf1Y
-owner = 619170695267614720
+token =
+owner =
 
 
 
